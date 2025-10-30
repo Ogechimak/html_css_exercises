@@ -1,0 +1,12 @@
+body {
+  height: 3000px;
+}
+
+.bottom-right {
+  background-color: rgba(128, 128, 128, 0.925);
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 315px;
+  height: 170px;
+}
